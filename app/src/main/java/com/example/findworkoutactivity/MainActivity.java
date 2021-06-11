@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
+import helpers.WorkoutExpert;
+
 public class MainActivity extends AppCompatActivity {
     private WorkoutExpert expert = new WorkoutExpert();
 
